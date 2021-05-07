@@ -118,7 +118,6 @@ INSERT INTO employee VALUES
     (55,'7156 Longfellow St.',07866,'NJ','Residence','Rockaway'),
     (56,'14 Anderson Rd.',38655,'MS','Residence','Oxford');
 
-TRUNCATE UNIVERSITY;
 INSERT INTO University VALUES
     (1,'Harvard University','MA'),
     (2,'Duke University','NC'),
